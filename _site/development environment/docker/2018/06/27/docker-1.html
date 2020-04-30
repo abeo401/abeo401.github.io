@@ -2,7 +2,7 @@
 <html class="no-js">
   <head>
 	<meta charset="utf-8">
-	<title>Docker를 이용하여 GitLab 설치하기 - Ubuntu 16.04 LTS (Server) | devYurim</title>
+	<title>Docker를 이용하여 GitLab 설치하기 - Ubuntu 16.04 LTS (Server) | ABEO</title>
 	<meta name="description" content="이제 연구실 서버 외부 접속이 가능해져서 코드 버전 관리를 위해 GitLab을 설치했다! 연구실 서버 환경은 우분투 16.04 LTS에 Docker를 사용하고 있다.GitLab 도커 이미지는 CE(Community Edition)과 EE(Enterprise Edition) 버전이 ...">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,7 +16,7 @@
 	<link rel="canonical" href="/development%20environment/docker/2018/06/27/docker-1.html">
 
 	<!-- RSS -->
-	<link rel="alternate" type="application/atom+xml" title="devYurim" href="/feed.xml" />
+	<link rel="alternate" type="application/atom+xml" title="ABEO" href="/feed.xml" />
 
 	<!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
@@ -54,10 +54,22 @@
 		</a>
 		
 		<h1 class="site-title">
-			<a href="/">devYurim</a>
+			<a href="/">ABEO</a>
 		</h1>
 		<nav class="site-nav">
 				<ul>
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
+					
+						
 					
 						
 					
@@ -188,44 +200,27 @@
 	<div class="site-category">
 			<ul class='cat1'>
 				<li><a href="/">Home</a></li>
-				<li><a href="/">Python</a>
+				<li><a href="/">Intelligent Mechatronics Lab</a>
 					<ul>
-							<li><a href="/Python/Crawler">Crawler</a></li>
-							<li><a href="/Python/Django">Django</a></li>
-							<li><a href="/Python/Tensorflow">Tensorflow</a></li>
+							<li><a href="/Intelligent Mechatronics Lab/Professor">Professor</a></li>
+							<li><a href="/Intelligent Mechatronics Lab/Researcher">Researcher</a></li>
+							<li><a href="/Intelligent Mechatronics Lab/Students">Students</a></li>
+							<li><a href="/Intelligent Mechatronics Lab/Researches_Projects">Researches/Projects</a></li>
+							<li><a href="/Intelligent Mechatronics Lab/Publications">Publications</a></li>
 					</ul>
 				</li>
 
-				<li><a href="/">Data Science</a>
+				<li><a href="/">Abeosystem Co., Ltd</a>
 					<ul>
-						<li><a href="/DS/Statistics">Statistics</a></li>
-						<li><a href="/DS/R">R programming</a></li>
-						<li><a href="/DS/ML">Machine Learning</a></li>
-						<li><a href="/DS/ADsP">ADsP</a></li>
+						<li><a href="/Abeosystem/About">About Abeosystem</a></li>
+						<li><a href="/Abeosystem/People">People</a></li>
+						<li><a href="/Abeosystem/Technologies">Technologies</a></li>
+						<li><a href="/Abeosystem/Products">Products</a></li>
+						<li><a href="/Abeosystem/Contact">Contact</a></li>
+						
 					</ul>
 				</li>
-				<li><a href="/">Data Base</a>
-					<ul>
-						<li><a href="/DB/MYSQL">MYSQL</a></li>
-					</ul>
-				</li>
-
-				<li><a href="/">Development Enviroment</a>
-					<ul>
-						  <li><a href="/DE/Github Blog">Github Blog</a></li>
-						  <li><a href="/DE/Git">Git</a></li>
-						  <li><a href="/DE/Docker">Docker</a></li>
-						  <li><a href="/DE/Ubuntu">Ubuntu</a></li>
-						  <li><a href="/DE/Java">Java</a></li>
-					</ul>
-				</li>
-
-				<li><a href="/">Android</a>
-					<ul>
-						<li><a href="/Android/Android">Android</a></li>
-					</ul>
-				</li>
-
+				
 			</ul>
 		</div>
 
@@ -264,14 +259,22 @@ latest의 태그명이 붙은 이미지를 다운로드 받았다.<br /></p>
 
 <p>다음의 Docker 명령어로 <point>GitLab 컨테이너를 생성</point>한다.<br /></p>
 
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="nv">$ </span><span class="nb">sudo </span>docker run <span class="nt">--detach</span> <span class="se">\</span>
-    <span class="nt">--hostname</span> gitlab.ailab.com <span class="se">\</span>
-    <span class="nt">--publish</span> 8897:80 <span class="nt">--publish</span> 6015:22 <span class="se">\</span>
-    <span class="nt">--name</span> gitlab <span class="se">\</span>
-    <span class="nt">--restart</span> always <span class="se">\</span>
-    <span class="nt">--volume</span> /srv/gitlab/config:/home/ailab/GitLab <span class="se">\</span>
-    <span class="nt">--volume</span> /srv/gitlab/logs:/home/ailab/GitLab/log <span class="se">\</span>
-    <span class="nt">--volume</span> /srv/gitlab/data:/home/ailab/GitLab/data <span class="se">\</span>
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="nv">$ </span><span class="nb">sudo </span>docker run <span class="nt">--detach</span> <span class="se">\
+</span>
+    <span class="nt">--hostname</span> gitlab.ailab.com <span class="se">\
+</span>
+    <span class="nt">--publish</span> 8897:80 <span class="nt">--publish</span> 6015:22 <span class="se">\
+</span>
+    <span class="nt">--name</span> gitlab <span class="se">\
+</span>
+    <span class="nt">--restart</span> always <span class="se">\
+</span>
+    <span class="nt">--volume</span> /srv/gitlab/config:/home/ailab/GitLab <span class="se">\
+</span>
+    <span class="nt">--volume</span> /srv/gitlab/logs:/home/ailab/GitLab/log <span class="se">\
+</span>
+    <span class="nt">--volume</span> /srv/gitlab/data:/home/ailab/GitLab/data <span class="se">\
+</span>
     gitlab/gitlab-ce:latest</code></pre></figure>
 
 <p><br /><br />
@@ -312,17 +315,22 @@ latest의 태그명이 붙은 이미지를 다운로드 받았다.<br /></p>
 
 <p>파일에 들어가보면 화면 중간부분에 GitLab URL부분에 <point>extenal_url 옵션</point>의 주석을 해제하고 외부에서 접속 할 url을 입력해 준다.<br /></p>
 
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="c">## GitLab URL</span>
-<span class="c">##! URL on which GitLab will be reachable.</span>
-<span class="c">##! For more details on configuring external_url see:</span>
-<span class="c">##! https://docs.gitlab.com/omnibus/settings/configuration.html#configuring-the-external-url-for-gitlab</span>
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="c">## GitLab URL
+</span>
+<span class="c">##! URL on which GitLab will be reachable.
+</span>
+<span class="c">##! For more details on configuring external_url see:
+</span>
+<span class="c">##! https://docs.gitlab.com/omnibus/settings/configuration.html#configuring-the-external-url-for-gitlab
+</span>
 external_url <span class="s1">'http://gitlab.ailab.com:8897'</span></code></pre></figure>
 
 <p><br /><br /></p>
 
 <p>조금 내리다 보면 GitLab Shell setting for GitLab 부분에서 <point>gitlab_rails['gitlab_shell_ssh_port']</point> 부분의 주석을 풀고 포트 부분을 수정해준다.<br /></p>
 
-<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="c">### GitLab Shell settings for GitLab</span>
+<figure class="highlight"><pre><code class="language-shell" data-lang="shell"><span class="c">### GitLab Shell settings for GitLab
+</span>
 gitlab_rails[<span class="s1">'gitlab_shell_ssh_port'</span><span class="o">]</span> <span class="o">=</span> 6015
 <span class="c"># gitlab_rails['gitlab_shell_git_timeout'] = 800</span></code></pre></figure>
 

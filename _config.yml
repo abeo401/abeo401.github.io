@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl:
-url: "https://devYurim.github.io"
+url: "https://abeo401.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: devYurim
+  title: ABEO
   avatar: assets/img/blogmark.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Intelligent System Lab Researcher</p>
+     <p>Intelligent Mechatronics Lab/ABEOSYSTEM CO., LTD</p>
 
   header_text_feature_image:
   footer_text: >
@@ -28,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "devYurim"
+  github: "abeo401"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -44,7 +44,7 @@ theme_settings:
 
   # Scripts
   google_analytics: UA-111748939-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname: devYurim
+  disqus_shortname: abeo
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
