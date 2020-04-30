@@ -6,6 +6,8 @@ permalink: '/Intelligent Mechatronics Lab/Professor'
 
 <br><br>
 
+<img src="https://abeo401.github.io/assets/img/professor.png" alt="professor">
+
 Byung‑Ryong Lee received the Bachelor’s degree from Busan National University, Busan, Korea in
 1983, and the Master of Engineering degree in Mechanical Engineering from Busan National
 University in 1988, and the Ph.D. degree in Mechanical Engineering from North Carolina State
