@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/data%20science/adsp/2018/08/21/ADsP-9.html</loc>
+        <loc>http://localhost:4000/data%20scsience/adssp/2018/08/21/ADsP-9.html</loc>
     </url>
     
     <url>
@@ -533,6 +533,14 @@
     
     <url>
         <loc>http://localhost:4000/category/Data+Science%252FStatistics/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/category/Data+Scsience%252FADssP/</loc>
     </url>
     
     

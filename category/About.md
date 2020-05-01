@@ -6,7 +6,7 @@ permalink: '/Abeosystem/About'
 
 <br><br>
 
-Prof. Lee Byung-ryong, a professor of mechanical engineering at the University of Ulsan,
+Prof. <strong> Lee Byung-ryong, </strong> a professor of mechanical engineering at the University of Ulsan,
 has secured 3D measurement technology by conducting research on 3D measurement that
 can measure weld defects using laser and machine vision. Based on this technology, we
 started to develop 3D scanners.
