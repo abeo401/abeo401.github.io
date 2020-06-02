@@ -4,25 +4,27 @@ layout: default
 
 <div class="home">
   <div class="selfie">
-    <section class="post-content">
-      Abeosystem Co., Ltd is a laboratory venture company that was founded on
-      March 1, 2014. The company was founded by Professor Lee Byung-ryong
-      (Intelligent Mechatronics Lab, Department of Mechanical Engineering at the
-      University of Ulsan, Ulsan, South Korea) and Dr. Do Van Phu. Although the
-      company it is a small company with 2 employees, but it is trying to
-      develop and apply software that can boast world-class performance
-      (precision, calculation speed) in the field of 3D scanner. 3D scanner is a
-      state-of-the-art measuring equipment that scans a specific part of an
-      object in three dimensions to calculate the three-dimensional data in a
-      short time, such as the dimension or shape of the object. Using 3D
-      scanner, welding defect inspection, shape defect inspection, 3D shape
-      restoration, design, and design can be performed, so there are many
-      applications.
-    </section>
-    <br />
-    <img src="https://abeo401.github.io/assets/img/home_image.jpg" />
-    <br />
-    <strong>[Robot Scanning System under Development: 2020~2021] </strong>
+    <article {% if page.feature-img %}class="feature-image" {% endif %}>
+      <section class="post-content">
+        Abeosystem Co., Ltd is a laboratory venture company that was founded on
+        March 1, 2014. The company was founded by Professor Lee Byung-ryong
+        (Intelligent Mechatronics Lab, Department of Mechanical Engineering at
+        the University of Ulsan, Ulsan, South Korea) and Dr. Do Van Phu.
+        Although the company it is a small company with 2 employees, but it is
+        trying to develop and apply software that can boast world-class
+        performance (precision, calculation speed) in the field of 3D scanner.
+        3D scanner is a state-of-the-art measuring equipment that scans a
+        specific part of an object in three dimensions to calculate the
+        three-dimensional data in a short time, such as the dimension or shape
+        of the object. Using 3D scanner, welding defect inspection, shape defect
+        inspection, 3D shape restoration, design, and design can be performed,
+        so there are many applications.
+      </section>
+      <br />
+      <img src="https://abeo401.github.io/assets/img/home_image.jpg" />
+      <br />
+      <strong>[Robot Scanning System under Development: 2020~2021] </strong>
+    </article>
   </div>
 
   {% if site.theme_settings.header_text %}
