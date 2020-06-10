@@ -18,9 +18,7 @@ Byung-Ryong and Dr. Do Van Phu jointly founded Abeosystem Co., LTD.
 
 <br>
 
-[![Abeo_Systems](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=ZdwZITIdNFA)
+[![Abeo_systems](http://img.youtube.com/vi/ZdwZITIdNFA/0.jpg)](http://www.youtube.com/watch?v=ZdwZITIdNFA "Abeo_systems")
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZdwZITIdNFA" frameborder="0" allowfullscreen></iframe>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
