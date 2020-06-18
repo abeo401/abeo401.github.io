@@ -19,6 +19,6 @@ permalink: '/Abeosystem/Products'
 - 3D scanning principle: structured light triangulation, phase-shift algorithm
 - Data extension: PLY file (Point cloud data), STL file (3D printer standard file)
 
-### Video
+### Operating Video
 
 {% include youtubeplayer.html id="sjpROZG1cy0" %}
