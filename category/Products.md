@@ -18,3 +18,7 @@ permalink: '/Abeosystem/Products'
 - Light source: RGB LED beam projector (912x1140 pixel high speed pattern generator)
 - 3D scanning principle: structured light triangulation, phase-shift algorithm
 - Data extension: PLY file (Point cloud data), STL file (3D printer standard file)
+
+### Video
+
+{% include youtubeplayer.html id="sjpROZG1cy0" %}
