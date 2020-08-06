@@ -22,5 +22,3 @@ permalink: '/Abeosystem/Products'
 ### Operating Video
 
 {% include youtubeplayer.html id="U-h5Kj6fZlQ" %}
-
-QTrMmeXPY
