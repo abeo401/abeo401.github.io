@@ -21,4 +21,12 @@ permalink: '/Abeosystem/Products'
 
 ### Operating Video
 
+<strong>Model Scan</strong>
 {% include youtubeplayer.html id="U-h5Kj6fZlQ" %}
+
+<br>
+
+<strong>Human Scan</strong>
+{% include youtubeplayer.html id="tDTdBMzFaJM" %}
+
+
