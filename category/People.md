@@ -15,7 +15,7 @@ Science and Technology, Pohang, Korea), and From1994-1995, he was a researcher a
 Changwon, Korea. Since 1995, he has been with the Intelligent Mechatronics Laboratory of School of
 Mechanical Engineering, Ulsan University, Korea, where he is currently a full professor. His research
 interests include intelligent control, machine vision and 3D measurement, robotics, and system
-diagnosis.
+diagnosis...
 
 <br>
 
