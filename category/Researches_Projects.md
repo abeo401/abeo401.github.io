@@ -7,7 +7,7 @@ permalink: '/Intelligent Mechatronics Lab/Researches_Projects'
 <br><br>
 
 
-<p> <strong> 스테레오방식의 3D 영역 스캔센서를 이용한 협동로봇 Bin Picking 시스템 개발 (중소벤처기업부, 2020-2021). </strong> </p>
+<p> <strong> 스테레오방식의 3D 영역 스캔센서를 이용한 협동로봇 Bin Picking 시스템 개발 (중소벤처기업부, 2020-2021).. </strong> </p>
 
 <br>
 
