@@ -8,7 +8,7 @@ permalink: '/Intelligent Mechatronics Lab/Students'
 
 <img src="../assets/img/oggyu.jpg" alt="oggyu" width="300">
 
-<strong> Oggyu Lee </strong>is currently senior in University of Ulsan. He is studying in machine vision and neural network. Oggyu is involved in project about laser robot and vision project. 
+<strong> Oggyu Lee </strong>is currently senior in University of Ulsan. He is studying in machine vision and neural network. Oggyu is involved in project about laser robot and vision project. ...
 
 <br>
 <hr>
