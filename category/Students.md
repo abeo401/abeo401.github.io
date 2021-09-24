@@ -20,7 +20,7 @@ permalink: '/Intelligent Mechatronics Lab/Students'
 <br>
 <hr>
 
-<img src="../assets/img/gyeongmin.png" alt="gyeongmin" width="300">
+<img src="../assets/img/min.png" alt="gyeongmin" width="300">
 
 <strong> Gyeongmin Kim </strong> is student of university of Ulsan. Her major is Mechanical Engineering. She is now studying 3D scanning with scanner ABEO AS4500.  
 
