@@ -34,9 +34,9 @@ permalink: '/Intelligent Mechatronics Lab/Students'
 <br>
 <hr>
 
-<img src="../assets/img/Jaehyeon.jpg" alt="Jaehyeon" width="300">
+<img src="../assets/img/Lu.jpg" alt="Lu" width="300">
 
-<strong> Jaehyeon Park </strong>is student of university of Ulsan. His major is Mechanical Engineering and recently studying RaspberryPi programming for drone and Neural Network. He is developing AI drone for his graduation project.project. 
+<strong> Lu Zhang </strong>is an exchange student from Ludong University and now majoring in mechanical engineering at University of Ulsan. He is studying Autonomous Lane-Keeping Car Using Raspberry Pi and OpenCV.
 
 <br>
 <hr>
