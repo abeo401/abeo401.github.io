@@ -13,16 +13,16 @@ permalink: '/Intelligent Mechatronics Lab/Students'
 <br>
 <hr>
 
-<img src="../assets/img/suwan.jpg" alt="suwan" width="300">
+<img src="../assets/img/jongkeun.jpg" alt="jongkeun" width="300">
 
-<strong> Suwan jang </strong>is a senior in University of Ulsan. He likes studying python programming and native language. He wants to makes useful application for many people.project. 
+<strong> Jongkeun Kim </strong> majored in mechanical engineering at Ulsan University and got a certificate of general mechanical engineer. Currently, He is studying Autonomous Lane-Keeping RC car using raspberry pi. 
 
 <br>
 <hr>
 
-<img src="../assets/img/jong.png" alt="jong" width="300">
+<img src="../assets/img/gyeongmin.png" alt="gyeongmin" width="300">
 
-<strong> Jonghyuck Moon </strong>is a senior in University of Ulsan and his major is Mechanical engineering. He is studying Machine control and Software like Mathlab and Arduino.project. 
+<strong> Gyeongmin Kim </strong> is student of university of Ulsan. Her major is Mechanical Engineering. She is now studying 3D scanning with scanner ABEO AS4500.  
 
 <br>
 <hr>
