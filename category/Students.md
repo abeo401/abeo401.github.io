@@ -27,6 +27,20 @@ permalink: '/Intelligent Mechatronics Lab/Students'
 <br>
 <hr>
 
+<img src="../assets/img/yunho.jpg" alt="yunho" width="300">
+
+<strong> Yunho Kim </strong> is student of university of Ulsan. His major is Mechanical Engineering. he is studying IOT with Arduino.
+
+<br>
+<hr>
+
+<img src="../assets/img/Jaehyeon.jpg" alt="Jaehyeon" width="300">
+
+<strong> Jaehyeon Park </strong>is student of university of Ulsan. His major is Mechanical Engineering and recently studying RaspberryPi programming for drone and Neural Network. He is developing AI drone for his graduation project.project. 
+
+<br>
+<hr>
+
 <img src="../assets/img/Jaehyeon.jpg" alt="Jaehyeon" width="300">
 
 <strong> Jaehyeon Park </strong>is student of university of Ulsan. His major is Mechanical Engineering and recently studying RaspberryPi programming for drone and Neural Network. He is developing AI drone for his graduation project.project. 
