@@ -6,9 +6,9 @@ permalink: '/Intelligent Mechatronics Lab/Students'
 
 <br><br>
 
-<img src="../assets/img/oggyu.jpg" alt="oggyu" width="300">
+<img src="../assets/img/gyunghwan.jpg" alt="gyunhhwan" width="300">
 
-<strong> Oggyu Lee </strong>is currently senior in University of Ulsan. He is studying in machine vision and neural network. Oggyu is involved in project about laser robot and vision project.
+<strong> KyeongHwan Lee </strong> is student of university of Ulsan. His major is Mechanical Engineering. He is studying Automatic Driving by using RC car and Raspberry PI. He is developing detecting lane line for his graduation project
 
 <br>
 <hr>
